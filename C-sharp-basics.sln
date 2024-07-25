@@ -11,15 +11,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Literals", "02-Literals\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-Types", "03-Types\03-Types.csproj", "{DE6DCF35-2323-411A-A2DD-8B3251C342A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ConsoleOutput", "04-ConsoleOutput\04-ConsoleOutput.csproj", "{288657D3-18E4-436D-AABB-669A8215687D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-ConsoleOutput", "04-ConsoleOutput\04-ConsoleOutput.csproj", "{288657D3-18E4-436D-AABB-669A8215687D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Arithmetics", "05-Arithmetics\05-Arithmetics.csproj", "{AE576D40-850A-40D4-A59F-D69568BC79EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-Arithmetics", "05-Arithmetics\05-Arithmetics.csproj", "{AE576D40-850A-40D4-A59F-D69568BC79EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-BitwiseOperations", "06-BitwiseOperations\06-BitwiseOperations.csproj", "{F9712DC5-1F88-42BC-AE21-F808576BFFEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-BitwiseOperations", "06-BitwiseOperations\06-BitwiseOperations.csproj", "{F9712DC5-1F88-42BC-AE21-F808576BFFEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-TypeConversion", "07-TypeConversion\07-TypeConversion.csproj", "{8F42ED9D-8B9B-4664-9A22-AF72A702CD0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-TypeConversion", "07-TypeConversion\07-TypeConversion.csproj", "{8F42ED9D-8B9B-4664-9A22-AF72A702CD0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-ConditionalExpressions", "08-ConditionalExpressions\08-ConditionalExpressions.csproj", "{537B3F13-FA02-4A4B-B8CC-3E1BD781D411}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-ConditionalExpressions", "08-ConditionalExpressions\08-ConditionalExpressions.csproj", "{537B3F13-FA02-4A4B-B8CC-3E1BD781D411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Loops", "09-Loops\09-Loops.csproj", "{62A038D2-CE7D-40B2-861B-35687E988BD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{537B3F13-FA02-4A4B-B8CC-3E1BD781D411}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{537B3F13-FA02-4A4B-B8CC-3E1BD781D411}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{537B3F13-FA02-4A4B-B8CC-3E1BD781D411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A038D2-CE7D-40B2-861B-35687E988BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A038D2-CE7D-40B2-861B-35687E988BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A038D2-CE7D-40B2-861B-35687E988BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A038D2-CE7D-40B2-861B-35687E988BD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
