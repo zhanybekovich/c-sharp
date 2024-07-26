@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-LocalFunctions", "13-Loc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Switch", "14-Switch\14-Switch.csproj", "{5142C97F-4FD2-4656-B12B-BA06C4288E64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Enums", "15-Enums\15-Enums.csproj", "{A0B93CB1-9AEA-4604-AC6E-9701A88EBB49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{5142C97F-4FD2-4656-B12B-BA06C4288E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5142C97F-4FD2-4656-B12B-BA06C4288E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5142C97F-4FD2-4656-B12B-BA06C4288E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B93CB1-9AEA-4604-AC6E-9701A88EBB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B93CB1-9AEA-4604-AC6E-9701A88EBB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B93CB1-9AEA-4604-AC6E-9701A88EBB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B93CB1-9AEA-4604-AC6E-9701A88EBB49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
