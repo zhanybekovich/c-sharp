@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-Methods", "11-Methods\11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Recursive", "12-Recursive\12-Recursive.csproj", "{DB5682CD-4DB9-47FD-B2A8-DEA0E2C18CB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-LocalFunctions", "13-LocalFunctions\13-LocalFunctions.csproj", "{C5446FFE-BBA0-4F53-8143-AF7B2FE23FEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{DB5682CD-4DB9-47FD-B2A8-DEA0E2C18CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB5682CD-4DB9-47FD-B2A8-DEA0E2C18CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB5682CD-4DB9-47FD-B2A8-DEA0E2C18CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5446FFE-BBA0-4F53-8143-AF7B2FE23FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5446FFE-BBA0-4F53-8143-AF7B2FE23FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5446FFE-BBA0-4F53-8143-AF7B2FE23FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5446FFE-BBA0-4F53-8143-AF7B2FE23FEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
