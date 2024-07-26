@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-Structures", "18-Structu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-Namespace", "19-Namespace\19-Namespace.csproj", "{7C77C914-6303-4C01-857D-D0EA5353FA9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-GlobalNameSpace", "20-GlobalNameSpace\20-GlobalNameSpace.csproj", "{5ECE7C50-10C7-40FD-A76A-3C7A452ABB02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{7C77C914-6303-4C01-857D-D0EA5353FA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C77C914-6303-4C01-857D-D0EA5353FA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C77C914-6303-4C01-857D-D0EA5353FA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECE7C50-10C7-40FD-A76A-3C7A452ABB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECE7C50-10C7-40FD-A76A-3C7A452ABB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECE7C50-10C7-40FD-A76A-3C7A452ABB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECE7C50-10C7-40FD-A76A-3C7A452ABB02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
